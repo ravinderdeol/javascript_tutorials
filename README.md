@@ -1,3 +1,3 @@
-# Coding Tutorials
+# JavaScript Tutorials
 
-In this repo, I share the code I write for tutorials at https://www.ravinderdeol.com/coding-tutorials.
+In this repo, I share the code I write for JavaScript tutorials at https://www.ravinderdeol.com/javascript-tutorials.
